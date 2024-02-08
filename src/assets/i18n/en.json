@@ -1,0 +1,174 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "MUFFEEZ_CV.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "As an engineering student, I am passionate about technology and i have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in : <span class='underline'>Angular, React, VueJS, NodeJS, ExpressJS, NextJS, NestJS, Spring, Symfony and DotNet .</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "Throughout my journey as an engineering student, I've actively sought opportunities to grow and learn. I've immersed myself in various projects, collaborating with teams to streamline integration processes and ensure smooth operations. In my role, I've not only contributed to writing <span class='underline'>code</span> and <span class='underline'>performing continuous integration</span>, but I've also taken the lead in coordinating efforts and fostering motivation among team members. My experience spans backend development using <span class='underline'>ExpressJS, NestJS, NextJS, Spring, MongoDB, MySQL, and PostgreSQL</span>, where I've applied my skills to drive projects forward. I'm adept at implementing system improvements, optimizing sites, and standardizing patterns, always striving to propose and execute ideas that enhance project value."
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+
+        {
+            "Tab": "Internship MIC",
+            "Title": "Frontend developer",
+            "Date": "July 2023 - September 2023",
+            "Description": [
+                "Developed and maintained web applications using Angular .",
+                "Coding of API requests with RxJS.",
+                "Creation of modules with complex reactive forms",
+                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
+            ]
+        },
+        {
+            "Tab": "Internship SCSI",
+            "Title": "Fullstack developer",
+            "Date": "Feburary 2022 - May 2022",
+            "Description": [
+                "Developed and maintained a web-based application using Html/CSS (Bootstrap), Symfony, and Mysql, resulting in improved user experience and increased performance.",
+                "Designed and implemented RESTful APIs to support multiple applications, using Symfony.",
+                "Implementation of continuous integration and daily backups.",
+                "developping of an Employees and Requests Web App  ."
+            ]
+        },
+        
+       
+        {
+            "Tab": "Internship WIC",
+            "Title": "Independent",
+            "Date": "July 2021 - August 2021",
+            "Description": [
+                "Implementing continuous improvements, working on frontend and backend.",
+                "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+                "Automation of processes with data structures.",
+                "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Esprit",
+            "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "imgs": [
+                "assets/images/school/image1.png",
+                "assets/images/school/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "Spring",
+                "Bootstrap",
+                "MySQL"
+            ]
+        },
+        {
+            "Title": "Best Buy Mall",
+            "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
+            "imgs": [
+                "assets/images/bbm/image1.png",
+                "assets/images/bbm/image2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SASS",
+                "Bootstrap",
+                "ExpressJS",
+                "MongoDB"
+            ]
+        },
+        {
+            "Title": " ACE ",
+            "Description": "ACE consists of three cross-platform applications designed to simplify event reservations for users across different locations. These applications seamlessly integrate with a map feature, helping users find and navigate to nearby events easily. Additionally, ACE includes a secure payment system for smooth transactions and a notification feature to keep users updated on upcoming events and important information.",
+
+            "imgs": [
+                "assets/images/mazhr/ZZ.PNG"
+            ],
+            "demoLink": "https://github.com/NidhalNar/Esprit-ACE-Project-",
+
+            "Technologies": [
+                "Symfony",
+                "BootStrap",
+                "SASS",
+                "MySQL"
+            ]
+        },
+        {
+            "Title": "ManageMe",
+            "Description": "ManageMe  is a web site that manages employees and requests with ease using mainly forms, it also has an authentification system with the possibility to check history for each profile",
+            "imgs": [
+                "assets/images/mazhr/bb.PNG"
+            ],
+            "demoLink": "https://github.com/NidhalNar/PFE-Project",
+            "Technologies": [
+                "React",
+                "BootStrap",
+                "NodeJS",
+                "ExpressJs",
+                "MySQL"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "MicroService",
+            "Description": "Event management project with reservations and sponsors. This project uses a microservices architecture with Spring Boot, Angular, Symfony, MySQL, H2, PostgreSQL, Eureka Server and Client, as well as a Gateway to connect all microservices. Additionally, the project is containerized with Docker and managed with Docker Compose.",
+            "ghLink": "https://github.com/NidhalNar/MicroService",
+            "Technologies": [
+                "Angular",
+                "Spring",
+                "Symfony",
+                "POSTGRESQL",
+                "MySQL",
+                "H2 Base",
+                "Rest Api",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Reservi",
+            "Description": "Reservi is an innovative event management platform powered by Spring, Angular, MySQL, Bootstrap, and Material UI. It simplifies event reservations for users and offers intuitive event creation tools for managers",
+            "ghLink": "https://github.com/NidhalNar/Reservi",
+            "Technologies": [
+                "Spring",
+                "Angular",
+                "Mysql",
+                "BootStrap",
+                "Material UI"
+            ]
+        },
+        {
+            "Title": "Quiz App",
+            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+            "ghLink": "https://github.com/NidhalNar/QuizzApp",
+            "Technologies": [
+                "React",
+                "SASS",
+                "TypeScript",
+                "API"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "https://github.com/NidhalNar/Node-JWT",
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
