@@ -40,8 +40,8 @@ Open your browser and navigate to http://localhost:4200 to view the portfolio.
 
 The website is organized into sections for easy navigation:
 
-**Home**: Overview of your professional background.
-**Projects**: Gallery of your key projects with descriptions.
-**Skills**: Highlights of your technical skill set.
-**Experience**: Professional roles and achievements.
-**Contact**: Direct contact form for communication.
+- **Home**: Overview of your professional background.
+- **Projects**: Gallery of your key projects with descriptions.
+- **Skills**: Highlights of your technical skill set.
+- **Experience**: Professional roles and achievements.
+- **Contact**: Direct contact form for communication.
